@@ -5,4 +5,4 @@
 #### The following graph shows the structure of the CPU:
 
 ![Image of the five-stage pipelined CPU]
-(Five-Stage-Pipelined-CPU.png)
+(https://github.com/Colin-Cheng/Five-Stage-Pipelined-CPU/blob/master/Five%20Stage%20Pipelined%20CPU.png)
