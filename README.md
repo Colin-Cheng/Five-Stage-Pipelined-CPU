@@ -8,7 +8,7 @@ The device used was **Device: XC7Z010- -1CLG400C**
 
 ![Image of the five-stage pipelined CPU](https://github.com/Colin-Cheng/Five-Stage-Pipelined-CPU/blob/master/Five%20Stage%20Pipelined%20CPU.png)
 
-The five stages are Instruction Fetch, Instruction Decode, Instruction Execute, Memory Access and Write Back
+The five stages are Instruction Fetch(IF), Instruction Decode(ID), Instruction Execute(EXE), Memory Access(MEM) and Write Back(WB)
 
 #### The following graph shows the waveform:
 
