@@ -4,4 +4,4 @@
 
 #### The following graph shows the structure of the CPU:
 
-![Image of the five-stage pipelined CPU](Five Stage Pipelined CPU.png)
+![Image of the five-stage pipelined CPU](./Five Stage Pipelined CPU.png)
